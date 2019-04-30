@@ -54,3 +54,7 @@ Try to dump memory of the application to steal secrets
 ## Contacts
 
 Send email to do.le_quoc@tu-dresden.de
+
+## Acknowledgements
+This work has been supported by EU H2020 ICT project LEGaTO, contract #780681.
+
